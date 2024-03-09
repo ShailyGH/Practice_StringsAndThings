@@ -13,7 +13,8 @@ public class CountYZTest {
     private StringsAndThings stringsAndThings;
 
     @Before
-    public void setup(){
+    public void setup()
+    {
         stringsAndThings = new StringsAndThings();
     }
 
